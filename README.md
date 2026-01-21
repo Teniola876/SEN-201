@@ -1,5 +1,9 @@
 # SEN 201 Assignment: Hello World Project
 
+NAME : AWODIRE TENIOLA ISRAEL,
+MATRIC NO : 24/13733,
+DEPARTMENT: SOFTWARE - ENGINEERING
+
 ## Project Overview
 This repository contains the submission for the **SEN 201** assignment. The objective is to demonstrate the setup of a GitHub repository and the execution of a simple Python script using the Software Development Life Cycle (SDLC).
 
