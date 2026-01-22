@@ -45,6 +45,20 @@ To complete this assignment, I followed the standard SDLC phases:
    ```bash
    git clone [https://github.com/](https://github.com/)[Your-Username]/[Your-Repo-Name].git
    ```
+ 2. **Navigate to the project directory:**
+   ```bash
    cd SEN-201
+   ```
+   3 .  **Run the script:**
+   ```bash
+   python hello_world.py
+   ```
+   ## 👤 Author
+**Awodire Teniola**
+* **Course:** SEN 201 (Software Engineering)
+* **Institution:** Caleb University
+* **GitHub:** [@Teniola876] https://github.com/Teniola876
 
-   cd SEN-201 && python hello_world.py
+## 📄 License
+This project is open source and available under the [MIT License](LICENSE).
+	
